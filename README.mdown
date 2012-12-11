@@ -1,18 +1,10 @@
 ## Description
 
-**AckMate** is a [TextMate](http://macromates.com/) plugin for running [Ack](http://betterthangrep.com) in a Cocoa window.
-
-*This plugin is only compatible with Mac OS X 10.5 and above.*
-
-## Donations
-
-Like many of you, I do this sort of thing to keep my family warm, clothed, and fed. Every hour I spend on AckMate is an hour that I'm not billing for.
-
-If you find AckMate useful, a small [donation](http://pledgie.com/campaigns/9779) is a great way to show your appreciation.
+This is a plugin for textmate that integrates The Silver Searcher with Textmate.
 
 ## Binary Installation
 
-* Download the latest release from the [downloads section](http://github.com/protocool/AckMate/downloads)
+* Download the latest release from the [downloads section](https://github.com/ggreer/AckMate/downloads)
 * Save any unsaved documents you have open in TextMate
 * Unpack the zip file and double-click the AckMate.tmplugin icon
 
